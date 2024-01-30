@@ -1,9 +1,10 @@
-git and code instructions:
+### Note: 
+- This is a personal portfolio site.
 
 ### Projects section:
 - set the following:
 - hints: filter-1 = web design, filter-2 = R&D Projects, filter-3 = Games
 
 ### Hero Section:
-- Following is very important. Don't remove h2
--  <p>I'm</p> <h1>Nabin Niroula</h1> <h2></h2>
+- Don't remove empty <h2></h2>
+
